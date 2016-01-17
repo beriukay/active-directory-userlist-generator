@@ -1,0 +1,2 @@
+Implement, GivenName, LastName, Initials, StreetAddress, City, PostalCode, State, Country, EMail, Phone, PhoneIPPrimary, PhoneIPOther, Company, Department, OfficeName, EmployeeID, Title, Manager, BuildingName, ProfilePath, ScriptPath, HomeDirectory, HomeDrive, Password, PasswordNeverExpires, BadPasswordTimeout, BadPasswordCount, MaxPwdAge, LastLogon, TargetOU, ProxyAddress, Enabled, Description, BirthLocation, Drink, JpegPhoto, WWWHomePage, ObjectGUID, AdditionalInfo
+
